@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+body{
+font-family: 'Architects Daughter', cursive;}
+.div{
+    text-align: center;
+    padding: 1rem;
+    padding-bottom: 1rem;
+}
+.button{
+	margin: auto;
+    padding:0.5rem;
+    margin-top:1.5rem;
+    margin-left:43%;
+    font-family:'Comic Neue', cursive;
+    background-color:#FFBF00 ;
+	border: none;
+    
+}
+.header{
+    text-align: center;
+}
+.navigation{
+    padding:1rem;
+    background-color:#FFBF00;
+    opacity: 0.8;
+    padding:1rem;
+    font-size:x-large;
+    color: black;
+		width: 90%;
+	margin: auto;
+  border-radius: 5%;
+
+}
+.ft{
+	margin: auto;
+	width: 90%;
+    padding:1rem;
+    background-color:#FFBF00;
+    opacity: 0.8;
+    padding:rem;
+    font-size:x-large;
+    color: black;
+    text-align: center;
+
+}
